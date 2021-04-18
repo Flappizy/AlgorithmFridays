@@ -26,23 +26,5 @@ namespace AlgorithmFridays
             array = newNum.ToArray();
             return array.Length;
         }
-
-        public static int RemoveAllNumberOccurrenceV2(int[] array, int numberToRemove)
-        {
-            if (array.Length == 0)
-            {
-                return 0;
-            }
-            int length = 0;
-            for (int i = 0; i < array.Length; i++)
-            {
-                if (numberToRemove == array[i])
-                {
-                    continue;
-                }
-                length++;
-            }
-            return length;
-        }
     }
 }
