@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.exe
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.deps.json
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.runtimeconfig.json
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.dll
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\bin\Debug\netcoreapp3.1\AlgorithmFridays.pdb
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.AssemblyInfo.cs
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.dll
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.pdb
+C:\Users\Hp\source\repos\AlgorithmFridays\AlgorithmFridays\obj\Debug\netcoreapp3.1\AlgorithmFridays.genruntimeconfig.cache
