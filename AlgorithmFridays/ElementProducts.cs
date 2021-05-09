@@ -43,7 +43,7 @@ namespace AlgorithmFridays
             return products;
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int[] array = { 4, 5, 10, 2 };
             int[] products = ElementProducts.FindElementProduct(array);
