@@ -19,7 +19,7 @@ namespace AlgorithmFridays
             //Checks if one of the classes is empty, no need to sort, so i just return the non empty class, since it is already sorted
             if ((classA == null || classB == null) || (classA.Count == 0 || classB.Count == 0))
             {
-                mergedClass = classA != null || classA.Count != 0 ? classA : classB;
+                mergedClass = classA != null && classA.Count != 0 ? classA : classB;
                 return mergedClass;
             }
             

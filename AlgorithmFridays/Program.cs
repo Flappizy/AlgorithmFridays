@@ -7,11 +7,11 @@ namespace AlgorithmFridays
     {
         static void Main(string[] args)
         {
-            List<int> list1 = new List<int> {2, 4, 5, 10};
-            List<int> list2 = new List<int>() {900, 1};
-
-            List<int> newList = TwoClasses.MergeClasses(list1, list2);
-            foreach (int item in newList)
+            //int[] numbers = { 4, 1, 3 };
+            int[] numbers = { 8, 5, 3, 7};
+            LinkedList<int> assemblyLine = new LinkedList<int>(numbers);
+            LinkedList<int> newassse =  ShuffleClass.ShuffleAssemblyLine(assemblyLine, 2);
+            foreach (var item in newassse)
             {
                 Console.Write(item + " ");
             }
